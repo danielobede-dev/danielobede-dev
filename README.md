@@ -2,23 +2,25 @@
 
 ### Front-End Developer | React • Next.js • TypeScript
 
-Sou graduado em Ciência da Computação e atualmente curso pós-graduação em Inteligência Artificial.
+Desenvolvedor Front-End e graduado em Ciência da Computação, atualmente
+cursando pós-graduação em Inteligência Artificial.
 
-Atuo como Desenvolvedor Front-End, com foco na construção de aplicações web modernas, organizadas, responsivas e escaláveis.
+Atualmente trabalho com desenvolvimento de interfaces, integração com APIs,
+autenticação, formulários e organização de aplicações React/TypeScript.
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
 - 💻 Desenvolvedor Front-End
 - 🏢 Atualmente na Inovatech-JP
 - 🎓 Graduado em Ciência da Computação
 - 🤖 Pós-graduando em Inteligência Artificial
-- 📚 Aprimorando conhecimentos em arquitetura Front-End, segurança web e boas práticas de desenvolvimento
+- 📚 Estudando arquitetura Front-End, segurança web e boas práticas de desenvolvimento
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 ### Front-End
 
@@ -30,15 +32,17 @@ Atuo como Desenvolvedor Front-End, com foco na construção de aplicações web 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### Bibliotecas e ferramentas
+
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ### Outras linguagens
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Ferramentas e desenvolvimento
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -46,16 +50,18 @@ Atuo como Desenvolvedor Front-End, com foco na construção de aplicações web 
 
 ### User Management Front-End
 
-Aplicação Front-End desenvolvida com React e TypeScript para autenticação e gerenciamento de usuários.
+Aplicação desenvolvida com **React + TypeScript** para autenticação
+e gerenciamento de usuários.
 
-Principais funcionalidades:
+**Principais recursos:**
 
-- Autenticação com JWT
+- Autenticação JWT
 - CRUD de usuários
 - Rotas protegidas
-- Validação de formulários
-- Tratamento de erros
+- Validação de formulários com Zod
+- React Hook Form
 - Integração com API
+- Tratamento de erros
 
 ---
 
