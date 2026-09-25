@@ -92,12 +92,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Obede-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-obede-da-silva-90874b220)
-
----
-
 <p align="center">
   <img src="./assets/mario-running.gif" width="70" alt="Mario correndo">
 </p>
