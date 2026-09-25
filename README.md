@@ -4,7 +4,7 @@
 
 Desenvolvedor Front-End na **Inovatech-JP**, graduado em Ciência da Computação e atualmente pós-graduando em Inteligência Artificial.
 
-No desenvolvimento Front-End, trabalho principalmente com **React e TypeScript**, integração com APIs, autenticação, formulários, validação de dados e organização de código por responsabilidades.
+Trabalho com aplicações React/TypeScript envolvendo integração com APIs REST, autenticação, gerenciamento de estado assíncrono, formulários, validação de dados e organização de código por responsabilidades.
 
 ---
 
@@ -25,12 +25,16 @@ No desenvolvimento Front-End, trabalho principalmente com **React e TypeScript**
 
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Outras linguagens
+## Conhecimentos adicionais
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,33 +43,43 @@ No desenvolvimento Front-End, trabalho principalmente com **React e TypeScript**
 
 ## Projeto em destaque
 
-### Sistema de gerenciamento de usuários
+### UserFlow — Sistema de gerenciamento de usuários
 
-Aplicação Front-End desenvolvida com **React + TypeScript**, com fluxo de autenticação e gerenciamento de usuários.
+Aplicação Front-End desenvolvida com **React + TypeScript**, com fluxo completo de autenticação e gerenciamento de usuários.
 
-O projeto inclui:
+O projeto implementa funcionalidades e decisões técnicas utilizadas em aplicações reais, incluindo:
 
-- Autenticação baseada em JWT;
+- autenticação baseada em JWT;
+- login e cadastro de usuários;
+- recuperação e redefinição de senha;
+- rotas públicas e protegidas;
 - CRUD de usuários;
-- Formulários utilizando React Hook Form;
-- Validação de dados com Zod;
-- Tratamento de erros de autenticação;
-- Hooks específicos para regras de negócio, como o fluxo de login;
-- Separação entre componentes, hooks, tipos e validações;
-- Integração do Front-End com API.
+- paginação sincronizada com a URL;
+- integração com API REST;
+- gerenciamento de requisições e cache com TanStack React Query;
+- formulários utilizando React Hook Form;
+- validação de dados com Zod;
+- requisições HTTP utilizando Axios;
+- interceptors para tratamento de autenticação;
+- tratamento de sessão expirada;
+- tratamento de estados de carregamento, erro e lista vazia;
+- hooks específicos para regras de negócio;
+- separação entre componentes, hooks, tipos, validações e serviços.
 
-**Stack:** React · TypeScript · React Hook Form · Zod · JWT
+**Stack:** React · TypeScript · React Query · React Router · Axios · React Hook Form · Zod · JWT
+
+[Ver código do projeto →](https://github.com/danielobede-dev/Projeto-UserFlow)
 
 ---
 
 ## Atualmente estudando
 
-Além do trabalho com Front-End, estou aprofundando meus conhecimentos em:
+Atualmente estou aprofundando meus conhecimentos em:
 
-- Arquitetura de aplicações Front-End;
-- Organização de projetos React;
-- Segurança de aplicações web;
-- Integração Front-End e APIs;
+- arquitetura de aplicações Front-End;
+- segurança de aplicações web;
+- integração entre Front-End e APIs;
+- boas práticas de desenvolvimento e organização de código;
 - Inteligência Artificial.
 
 ---
