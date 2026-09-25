@@ -93,5 +93,9 @@ Atualmente estou aprofundando meus conhecimentos em:
 ---
 
 <p align="center">
-  <img src="./assets/mario-running.gif" width="70" alt="Mario correndo">
+  <img
+    src="https://media.tenor.com/UkvleU1dQK4AAAAi/2d-mario-running.gif"
+    width="90"
+    alt="Mario correndo"
+  />
 </p>
