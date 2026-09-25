@@ -45,14 +45,14 @@ Aplicação Front-End desenvolvida com **React + TypeScript**, com fluxo de aute
 
 O projeto inclui:
 
-- autenticação baseada em JWT;
+- Autenticação baseada em JWT;
 - CRUD de usuários;
-- formulários utilizando React Hook Form;
-- validação de dados com Zod;
-- tratamento de erros de autenticação;
-- hooks específicos para regras de negócio, como o fluxo de login;
-- separação entre componentes, hooks, tipos e validações;
-- integração do Front-End com API.
+- Formulários utilizando React Hook Form;
+- Validação de dados com Zod;
+- Tratamento de erros de autenticação;
+- Hooks específicos para regras de negócio, como o fluxo de login;
+- Separação entre componentes, hooks, tipos e validações;
+- Integração do Front-End com API.
 
 **Stack:** React · TypeScript · React Hook Form · Zod · JWT
 
@@ -62,10 +62,10 @@ O projeto inclui:
 
 Além do trabalho com Front-End, estou aprofundando meus conhecimentos em:
 
-- arquitetura de aplicações Front-End;
-- organização de projetos React;
-- segurança de aplicações web;
-- integração Front-End e APIs;
+- Arquitetura de aplicações Front-End;
+- Organização de projetos React;
+- Segurança de aplicações web;
+- Integração Front-End e APIs;
 - Inteligência Artificial.
 
 ---
