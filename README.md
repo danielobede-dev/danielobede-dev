@@ -4,7 +4,9 @@
 
 Desenvolvedor Front-End na **Inovatech-JP**, graduado em Ciência da Computação e atualmente pós-graduando em Inteligência Artificial.
 
-Trabalho com aplicações React/TypeScript envolvendo integração com APIs REST, autenticação, gerenciamento de estado assíncrono, formulários, validação de dados e organização de código por responsabilidades.
+Trabalho com aplicações React e TypeScript, envolvendo integração com APIs REST, autenticação, gerenciamento de estado assíncrono, formulários e validação de dados.
+
+Busco desenvolver interfaces claras, responsivas e acessíveis, com código organizado por responsabilidades.
 
 ---
 
@@ -45,43 +47,55 @@ Trabalho com aplicações React/TypeScript envolvendo integração com APIs REST
 
 ## Projeto em destaque
 
-### UserFlow — Sistema de gerenciamento de usuários
+### Fragrânciapura — e-commerce de perfumes
 
-Aplicação Front-End desenvolvida com **React + TypeScript**, com fluxo completo de autenticação e gerenciamento de usuários.
+![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-8B5CF6?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-ALPHA-4A182E?style=for-the-badge)
 
-O projeto implementa funcionalidades e decisões técnicas utilizadas em aplicações reais, incluindo:
+Projeto pessoal de uma loja de perfumes nacionais, internacionais e árabes. A versão ALPHA permite explorar o catálogo e testar a experiência de navegação e compra com dados demonstrativos.
 
-- autenticação baseada em JWT;
-- login e cadastro de usuários;
-- recuperação e redefinição de senha;
-- rotas públicas e protegidas;
-- CRUD de usuários;
-- paginação sincronizada com a URL;
-- integração com API REST;
-- gerenciamento de requisições e cache com TanStack React Query;
-- formulários utilizando React Hook Form;
-- validação de dados com Zod;
-- requisições HTTP utilizando Axios;
-- interceptors para tratamento de autenticação;
-- tratamento de sessão expirada;
-- tratamento de estados de carregamento, erro e lista vazia;
-- hooks específicos para regras de negócio;
-- separação entre componentes, hooks, tipos, validações e serviços.
+Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação até a futura integração com backend, banco de dados e pagamentos.
 
-**Stack:** React · TypeScript · React Query · React Router · Axios · React Hook Form · Zod · JWT
+#### Disponível na ALPHA
+
+- Catálogo dividido entre perfumes nacionais, internacionais e árabes.
+- Páginas de marcas e produtos.
+- Busca por nome, marca, categoria e gênero.
+- Filtros por marca, gênero, família olfativa, concentração, volume, preço e disponibilidade.
+- Ordenação por preço, relevância, lançamentos e mais vendidos.
+- Favoritos e carrinho com armazenamento local no navegador.
+- Alteração de quantidade e remoção de itens do carrinho.
+- Fluxo visual de checkout, sem cobrança real.
+- Telas demonstrativas de conta, cadastro e recuperação de senha.
+- Prévia visual do painel administrativo.
+- Layout responsivo, com filtros em painel lateral no mobile.
+
+#### Próximas etapas
+
+- Integração com backend e PostgreSQL.
+- Autenticação, sessões e confirmação de e-mail.
+- Autorização no servidor para funcionalidades administrativas.
+- Persistência de produtos, estoque, clientes e pedidos.
+- Integração com Mercado Pago, inicialmente em ambiente de testes.
+- Validação de webhooks para confirmação de pagamentos.
+- Revisão de acessibilidade, segurança e informações do catálogo.
+
+> A ALPHA utiliza produtos, preços e imagens ilustrativos. Autenticação, banco de dados e pagamentos reais ainda não estão implementados.
+
+**Tecnologias da interface:** React · TypeScript · CSS · Tailwind CSS · shadcn/ui · Lucide React
 
 [Ver código do projeto →](https://github.com/danielobede-dev/Fragranciapura)
+
+[Ver versão ALPHA — acesso restrito →](https://fragranciapura-alpha.danielobede-devdesig.chatgpt.site)
 
 ---
 
 ## Atualmente estudando
 
-Atualmente estou aprofundando meus conhecimentos em:
-
-- arquitetura de aplicações Front-End;
-- segurança de aplicações web;
-- integração entre Front-End e APIs;
-- boas práticas de desenvolvimento e organização de código;
+- Arquitetura e organização de aplicações Front-End.
+- Segurança de aplicações web.
+- Integração entre Front-End e APIs.
+- Acessibilidade e experiência do usuário.
 - Inteligência Artificial.
 
 ---
