@@ -70,7 +70,7 @@ O projeto implementa funcionalidades e decisões técnicas utilizadas em aplica�
 
 **Stack:** React · TypeScript · React Query · React Router · Axios · React Hook Form · Zod · JWT
 
-[Ver código do projeto →](https://github.com/danielobede-dev/Projeto-UserFlow)
+[Ver código do projeto →](https://github.com/danielobede-dev/Fragranciapura)
 
 ---
 
