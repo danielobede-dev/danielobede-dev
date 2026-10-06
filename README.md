@@ -95,11 +95,13 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 <p align="center">
   <img
     width="48%"
+    height="210"
     src="https://github-readme-stats.vercel.app/api?username=danielobede-dev&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub"
     alt="Estatísticas do GitHub de Daniel Obede"
   />
   <img
     width="48%"
+    height="210"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=compact&langs_count=6&theme=transparent&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas"
     alt="Linguagens mais usadas por Daniel Obede"
   />
