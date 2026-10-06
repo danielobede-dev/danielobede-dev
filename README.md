@@ -92,15 +92,12 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 
 <h2>Estatísticas do GitHub</h2>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img
-        width="100%"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=danielobede-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&hide_rank=true"
-        alt="Estatísticas do GitHub de Daniel Obede"
-      />
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielobede-dev&theme=tokyonight"
+    alt="Estatísticas do GitHub"
+  />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
