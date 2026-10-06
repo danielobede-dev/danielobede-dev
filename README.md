@@ -104,11 +104,10 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
     </td>
     <td width="50%" align="center" valign="middle">
       <img
-        width="100%"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas&card_width=500"
-        alt="Linguagens mais usadas por Daniel Obede"
-      />
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas"
+  alt="Linguagens mais usadas por Daniel Obede"
+/>
     </td>
   </tr>
 </table>
