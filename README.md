@@ -94,16 +94,18 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=danielobede-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=danielobede-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&hide_rank=true"
         alt="Estatísticas do GitHub de Daniel Obede"
       />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <img
         width="100%"
+        height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas&card_width=500"
         alt="Linguagens mais usadas por Daniel Obede"
       />
