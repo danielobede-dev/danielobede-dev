@@ -90,24 +90,20 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 
 ---
 
-<h2>Estatísticas do GitHub</h2>
+## Estatísticas do GitHub
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielobede-dev&theme=tokyonight"
-    alt="Estatísticas do GitHub"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=danielobede-dev&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub"
+    alt="Estatísticas do GitHub de Daniel Obede"
   />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas"
-  alt="Linguagens mais usadas por Daniel Obede"
-/>
-    </td>
-  </tr>
-</table>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=compact&langs_count=6&theme=transparent&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas"
+    alt="Linguagens mais usadas por Daniel Obede"
+  />
+</p>
 
 ## Atualmente estudando
 
