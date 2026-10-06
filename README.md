@@ -93,6 +93,7 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 ## Estatísticas do GitHub
 
 <p align="center">
+      <td width="50%" align="center" valign="top">
   <img
     width="48%"
     height="210"
