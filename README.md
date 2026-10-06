@@ -90,6 +90,20 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 
 ---
 
+## Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=danielobede-dev&show_icons=true&theme=tokyonight&include_all_commits=true"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielobede-dev&layout=compact&theme=tokyonight&langs_count=8"
+  />
+</p>
+
 ## Atualmente estudando
 
 - Arquitetura e organização de aplicações Front-End.
