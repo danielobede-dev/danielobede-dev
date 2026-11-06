@@ -120,7 +120,7 @@ Estou evoluindo o projeto por etapas, da interface e dos fluxos de navegação a
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Obede-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-obede-da-silva-90874b220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Obede-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-obede-da-silva-90874b220](https://www.linkedin.com/in/danielobede/))
 
 ---
 
